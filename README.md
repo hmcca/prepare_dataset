@@ -80,7 +80,3 @@ This will:
 - The script uses Polars for high performance and low memory usage.
 - CXR reports are processed in parallel for speed.
 - The output is suitable for LLM pretraining or further downstream NLP tasks.
-
----
-
-For questions or contributions, please open an issue or pull request. 
